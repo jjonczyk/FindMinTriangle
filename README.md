@@ -7,7 +7,7 @@ This code is a solution to a well-known mathematical problem (but extended a lit
 Given the triangle of numbers, I had to find a path with the smallest sum and return both the path (from the top to the bottom) and its sum itself. 
 Oh, and of course you can only go one step down and one step left/right each time!
 
-For example:
+For example:  
    4  
   1 3  
  2 5 6  
