@@ -13,9 +13,9 @@ For example:
  2 5 6  
 3 2 1 2  
 
-This one is easy, right?
--sum:  9
--path: 4->1->2->2 (return: '4122')
+This one is easy, right?  
+-sum:  9  
+-path: 4->1->2->2 (return: '4122')  
 
 Most of you were probably searching for the solution from the top to the bottom (as given above)  
 but it's not efficient with bigger data.
